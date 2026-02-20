@@ -13,7 +13,9 @@
     Climate Protection Application
 
 # Project Description :
-    ?
+    Environmental impact tracking app,
+    Encourages sustainability,
+    Utilizes agile framework for iterative development/feedback.
 
 # Team Members :
   | Student Name                   | Student ID |
