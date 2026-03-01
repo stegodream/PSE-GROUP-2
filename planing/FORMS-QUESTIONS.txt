@@ -1,0 +1,102 @@
+(1) How often you think about your environmental impact?
+- Daily  - I'm actively trying to reduce my carbon footprint
+- Weekly - Sometimes when convenient I make eco-friendly decisions
+- Rarely - Only when someone mention it
+- Never  - I don't consider my environmental impact at all
+
+(2) In which area of your life do you feel you have the highest carbon impact?
+- Transport (Driving, flying, commuting)
+- Home Energy (Heating, cooling, and appliance use)
+- Food & Shopping (Meat consumption, packaging, and waste)
+- I honestly have no idea where my impact is highest
+
+(3) What is your biggest frustration regarding recycling and waste management?
+- I never know what is actually recyclable in my specific city
+- I forget to take the bins out on the right days
+- I don't know where to dispose of "weird" items (batteries, electronics, clothes)
+- I don't think recycling works, so I don't bother.
+
+(4) What is the biggest challenge preventing you from living a more eco-friendly lifestyle?
+- What is the biggest challenge preventing you from living a more eco-friendly lifestyle?
+- Sustainable options (food, transport) are too expensive or inconvenient
+- I feel like my individual actions don't make a real difference
+- I have good intentions but often forget to make the "green" choice
+
+(5) What would most motivate you to adopt more eco-friendly habits? 
+- Seeing clear cost savings (lower bills, fuel savings)
+- Having simple reminders or tools that make it easier
+- Rewards or incentives (points, discounts, recognition)
+- Other
+
+------CLIMATE QUESTIONS------
+(1) How prepared do you feel for a local climate emergency (e.g., flash floods or heatwaves)?
+- Very prepared; I have an emergency plan and kit
+- Somewhat prepared; I know what to do but don't have a formal plan
+- Not prepared; I would rely entirely on social media or news in the moment
+- Unaware; I don't think my area is at risk for climate emergencies
+
+(2) How do you prefer to consume information about climate change and sustainability?
+- Short, bite-sized videos (TikTok/Reels style)
+- In-depth articles and data visualizations
+- Daily actionable tips delivered via push notifications
+- Interactive quizzes and challenges
+
+(3) What would most likely encourage you to use a climate-action app every day?
+- Financial savings (e.g., seeing exactly how much money I saved on power)
+- Gamification (e.g., earning badges, leveling up, or competing with friends)
+- Education (e.g., learning new facts about the environment)
+- Community (e.g., seeing how many people in my city are taking action)
+
+
+(4)  What prevents you most from preparing for climate-related emergencies?  
+- Lack of clear information or guidance
+- Cost of preparation (supplies, home upgrades)
+- I don’t think it will happen to me
+- I rely on authorities to handle it
+
+(5) How likely are you to change your daily habits if you could see the immediate impact on climate change?  
+- Scale of 1 ------- 5
+
+------APPLICATION PREFERENCES------
+
+(1) Which of these digital tools would you find most useful in your daily life?
+- A dashboard to track my total carbon footprint (Food, travel, energy)
+- A navigation tool that suggests the lowest-emission travel routes
+- A home monitor that helps me lower my electricity bills
+- A real-time alert system for local weather risks and climate news
+
+(2) How comfortable are you connecting your personal accounts (e.g., bank statements, utility meters) to an app for automatic tracking?
+- Very comfortable; I want the tracking to be 100% automated
+- Somewhat comfortable; I would connect them if the security is transparent
+- Uncomfortable; I prefer to enter data manually to protect my privacy
+- I would never share that data; I only want generic advice, not personalized tracking
+
+(3) When you are shopping for groceries or clothes, what is the biggest barrier to choosing the eco-friendly option?
+- I can’t tell which brands are actually sustainable (greenwashing)
+- The sustainable options are almost always more expensive
+- The eco-friendly brands are hard to find in my local stores
+- I don’t prioritize sustainability when I’m in a rush
+
+(4) Top feature you would be checking in a carbon footprint app?
+- Electric consumption in real time (gauge shows current/past usage)
+- Comparison of monthly costs to time (previous/current months)
+- Category breakdown (what device use energy most)
+- Suggestions (how to minimize my lifestyle impact)
+
+(5) What might put you off from using an environment tracking app?
+- Time consuming - logging my activities every day takes too much time
+- Lifestyle differ from app content - results not personalized to my lifestyle
+- No clear purpose - app only reveal accumulated numbers
+- Feel more  guilt and pressure - stressful rather than being (helpful, meaningful, inspirational)
+
+(6) If there is a carbon tracking app, what method is best for your daily input logs?
+- Fast logs - Quick tap on pre-set buttons (driving to class, eating a meal, watching movies)
+- Detailed logs  - I want to specify exact details (distance, meal type, computer hours)
+- Automatic - Background auto detection of activities by connecting the app with my (location, calendar, idle/active time)
+- Weekly logs    - Report once a week with a summary (not daily)
+
+(7) How likely you would share your climate action progress on social media?
+- Most likely - I would Love to keep showing my impact results (high or low I continue to share)
+- Somewhat likely - Sometimes (only if progress looks good)
+- Unlikely - Rarely but in private in small circle of people (keeping it private)
+- Never - No sharing of any personal information online (data harvesting)
