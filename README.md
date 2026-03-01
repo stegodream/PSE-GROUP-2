@@ -1,21 +1,21 @@
-# *Introduction* :
+## Introduction :
   `Hello World! welcome to our github repository`
 
-# Module Information :
+## Module Information :
     Principles of Software Engineering
     Tutorial Sec (08)
     Group (02)
 
-# SDG Chosen :
+## SDG Chosen :
     SDG13 - Climate Action
 
-# Project Title :
-    Climate Protection Application
+## Project Title & Description :
+    (Climate Protection Application)
 
-# Project Description :
-    Environmental impact tracking app,
-    Encourages sustainability,
-    Utilizes agile framework for iterative development/feedback.
+    - Environmental impact tracking app,
+    - Encourage sustainability,
+    
+    Utilizing Agile framework for iterative (development/feedback).
 
 # Team Members :
   | Student Name                   | Student ID |
@@ -25,4 +25,4 @@
   | Morena Letchumanan             | 0379058    |
   | Fahim Abrar Ibn KKhayrul       | 0381842    |
   | Li Hao Jin                     | 0373383    |
-
+---

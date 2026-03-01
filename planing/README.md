@@ -13,4 +13,5 @@
 - **[FORM QUESTIONS](./FORMS-QUESTIONS.txt)**
 
 ## interview (video)
-- **![Video Interview (.mp4)](./video-interview-thumbnail.png)**
+- **[WATCH INTERVIEW (video-interview.MOV)](./video-interview.MOV)**
+**![Video Interview)](./video-interview-thumbnail.png)**
