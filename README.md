@@ -1,3 +1,6 @@
+## Quick Navigation
+[planing](planing) | [design](design) | [testing](testing) | [final](final)
+
 ## Introduction :
   `Hello World! welcome to our github repository`
 
@@ -16,9 +19,6 @@
     - Encourage sustainability,
     
     Utilizing Agile framework for iterative (development/feedback).
-
-## Quick Navigation
-[planing](planing) | [design](design) | [testing](testing) | [final](final)
 
 # Team Members :
   | Student Name                   | Student ID |
