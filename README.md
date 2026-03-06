@@ -17,6 +17,12 @@
     
     Utilizing Agile framework for iterative (development/feedback).
 
+## Quick Navigation
+**[planning](./planning/)**
+**[design](./design/)**
+**[testing](./testing/)**
+**[final](./final/)**
+
 # Team Members :
   | Student Name                   | Student ID |
   | ------------------------------ | ---------- |
