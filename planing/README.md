@@ -4,7 +4,7 @@
 - **user requirements & expectations**
 
 ## sprint notes
-- **![sprint-notes](./sprint-notes/)**
+- **[sprint-notes](./sprint-notes/)**
 - **progress, challenges, achievements**
 
 ## feedback
