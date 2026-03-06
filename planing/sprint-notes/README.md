@@ -1,6 +1,6 @@
 # SPRINT
 
 ## sprint notes
-- **![Sprint-1)](./sprint-1-placeholder.txt)**
-- **![Sprint-2)](./sprint-2-placeholder.txt)**
-- **![Sprint-3)](./sprint-3-placeholder.txt)**
+- **![sprint-1-placeholder)](./sprint-1-placeholder.txt)**
+- **![sprint-2-placeholder)](./sprint-2-placeholder.txt)**
+- **![sprint-3-placeholder)](./sprint-3-placeholder.txt)**
