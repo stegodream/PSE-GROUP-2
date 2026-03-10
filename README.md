@@ -1,7 +1,7 @@
 ![SDG](https://img.shields.io/badge/SDG-13_Climate_Action-green) | ![Group](https://img.shields.io/badge/Group-02-orange) | ![Course](https://img.shields.io/badge/Course-PSE_Tutorial_08-orange) | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow) | ![Language](https://img.shields.io/badge/Made_With-Markdown-blue)
 
 ## Quick Navigation
-[planing](planing) | [design](design) | [testing](testing) | [final](final)
+[planing](./planing/README.md) | [design](./design/README.md) | [testing](./testing/README.md) | [final](./final)
 
 ## Introduction :
   `Hello World! welcome to our github repository`
@@ -22,7 +22,7 @@
     
     Utilizing Agile framework for iterative (development/feedback).
 
-# Team Members :
+## Team Members :
   | Student Name                   | Student ID |
   | ------------------------------ | ---------- |
   | Aiman Arif bin Saiful Ruzaimee | 0373388    |
