@@ -2,6 +2,7 @@
 
 ## 🔗 Quick Navigation
 [planing](./planing/README.md) | [design](./design/README.md) | [testing](./testing/README.md) | [final](./final)
+![planet-guard](./design/planet-guard.jpg)
 
 ## Introduction :
   `Hello World! welcome to our github repository`
@@ -15,8 +16,9 @@
     SDG13 - Climate Action
 
 ## Project Title & Description :
-    (Climate Protection Application)
+    Planet Guard
 
+    - Climate Protection Application
     - Environmental impact tracking app,
     - Encourage sustainability,
     
